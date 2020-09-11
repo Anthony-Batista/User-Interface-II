@@ -175,5 +175,5 @@ h1 {
 }
 h1:hover,
 h1.glow {
-    text-shadow: 0 0 10px red;
+    text-shadow: 0 0 10px blue;
 }
