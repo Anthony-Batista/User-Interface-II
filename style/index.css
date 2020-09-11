@@ -169,3 +169,11 @@ a:hover{
     background-color: red;
     color: white;
 }
+
+h1 {
+    transition: text-shadow 1s linear;
+}
+h1:hover,
+h1.glow {
+    text-shadow: 0 0 10px red;
+}
